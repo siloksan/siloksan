@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Evgenii Kurtin  
+# 👋 Hi, I'm Evgeny Kurtin  
 
 **Frontend Developer (React / Next.js / TypeScript)**  
 📍 Yaroslavl, Russia — open to remote or on-site work  
@@ -22,10 +22,26 @@
 
 ## 🎓 Professional Education (Pet Projects)
 
-### 🧠 **Vocab Turbo** — Personal Language Learning App  
-**Tech:** Expo · React Native · SQLite · Drizzle ORM · i18next  
-- Inspired by *Reword*, this app helps users memorize words using spaced repetition (SM-2-based algorithm).  
-- Implemented offline DB sync with **SQLite + Drizzle**, dynamic UI theming, and multilingual support.  
-- Focused on local performance, offline persistence, and smooth UX on mobile.
+### 🧠 **[Vocab Turbo](https://github.com/siloksan/vocab-turbo)** — Personal Language Learning App  
+#### Status: in progress of development  
+**Tech:** Expo · React Native · SQLite · Drizzle ORM · i18next · Nest.js · Prisma  
+
+- This app helps users memorize words using **spaced repetition**.  
+- Implemented **offline DB sync** with SQLite + Drizzle, dynamic UI theming, and multilingual support.  
+- Focused on **local performance**, offline persistence, and smooth UX on mobile.  
+- The **server part**, built with **Nest.js**, provides:
+  - Translation fetching from external APIs.  
+  - Image and definition retrieval for words.  
+  - User authentication and account management (in progress).  
+  - Modular architecture ready for future synchronization with user data and learning progress.  
+
+| Project | Tech Stack | Context |
+|----------|-------------|--------|
+| **[nodejs2025Q2-service](https://github.com/siloksan/nodejs2025Q2-service)** - REST API service | Node.js · Nest.js · Prisma · Postgres · REST API · Docker | RS School 2025 Node.js Course |
+| **[websockets-ui](https://github.com/siloksan/websockets-ui)** - server for game sea battle | Node.js | RS School Node.js Course |
+| **[file-manager](https://github.com/siloksan/file-manager)** - cli application  | Node.js | RS School Node.js Course |
+| **[REST Client](https://github.com/siloksan/rest-client-app)** - postman like app | Next.js · Subapase · Zustand | RS School React Course |
+| **[React🌟](https://github.com/siloksan/react2025q1)** - repo with several react apps | React · Redux · Next| RS School React Course |
+| **[eCommerce-app](https://github.com/siloksan/eCommerce-app)** - online coffee shop | Commercetools · React · Vitest | RS School JavaScript/Front-end |
 
 ⭐️ **Feel free to explore my repositories or reach out if you’d like to collaborate!**
