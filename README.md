@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Evgeny Kurtin  
+# 👋 Hi, I'm Evgeny  
 
 **Frontend Developer (React / Next.js / TypeScript)**  
 📍 Yaroslavl, Russia — open to remote or on-site work  
